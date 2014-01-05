@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     railsyard-globalize (0.0.2)
-      globalize3
+      globalize
       rails (~> 3.2.1)
       railsyard-backend
 
